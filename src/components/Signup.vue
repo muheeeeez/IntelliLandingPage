@@ -73,17 +73,6 @@ import {
   signInWithPopup,
 } from "firebase/auth";
 export default {
-  // async setup() {
-  //   const promise = new Promise((resolve, reject) => {
-  //     setTimeout(function () {
-  //       resolve("Success");
-  //     }, 2000);
-  //   });
-  //   const user = await promise;
-  //   return {
-  //     user,
-  //   };
-  // },
 
   data() {
     return {
